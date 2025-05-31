@@ -7,3 +7,6 @@ Unity projects can be found at the following itch.io links: https://gaqck.itch.i
 
 Java projects can be found in the java_projects folder
 
+
+C projects can be found in the C projects folder
+
