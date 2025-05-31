@@ -1,0 +1,6 @@
+101|2025-05-01|income|Active|Paycheck|3000.0
+102|2023-10-08|income|Active|Rental|50.0
+103|2021-05-01|expense|need|Paycheck|3000.0
+104|2020-02-08|expense|want|Rental|50.0
+105|2025-03-01|income|Passive|Paycheck|3000.0
+106|2022-05-08|expense|want|Rental|50.0
