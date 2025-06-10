@@ -12,7 +12,7 @@ print('''
       
 Welcome to athlete managment tool:
 ''')
-filename=''
+filename='testfile.txt'
 saved=True#this tracks if the changes have been saved
 while True:
     os.system("clear")
